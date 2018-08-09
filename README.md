@@ -1,1 +1,1 @@
-# flexicms
+# Flexi CMS
